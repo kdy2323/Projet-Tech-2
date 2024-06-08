@@ -1,0 +1,58 @@
+/* Styles personnels */
+
+
+.rose {
+    background: lightpink;
+}
+
+.red {
+    color:#F00;
+}
+
+.cyan {
+    background: lightcyan;
+}
+
+.bisque{
+    background: bisque;
+}
+
+.subdivision {
+    margin: 0 10px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+
+}
+
+.subdiv1 {
+    flex-basis: 70%;
+}
+
+.subdiv2{
+    margin-left:2em;
+    margin-top:2.3em;
+    flex-basis: 30%;
+}
+
+.txtGras{
+    font-weight:bold;
+}
+
+.txtItalic{
+    font-style:italic;
+}
+
+.txtRed {
+    color:#F00;
+}
+
+.txtGreen{
+    color:#2D1;
+}
+.custom-text {
+    color: #ff0000; /* Couleur du texte */
+    font-size: 18px; /* Taille de police */
+    font-weight: bold; /* Gras */
+    /* Autres propriétés de style selon vos besoins */
+}

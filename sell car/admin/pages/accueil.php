@@ -1,0 +1,1 @@
+<p><img src="./images/acc.jpg" /></p>
